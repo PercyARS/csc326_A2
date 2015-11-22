@@ -22,5 +22,3 @@ def find_popular(file_name):
                 # since we only need 10
                 if counter == 10:
                     return
-
-find_popular("text")
